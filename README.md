@@ -132,7 +132,7 @@ class Rajarajeshwari:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🎓 Annamalai Engineering College &nbsp;|&nbsp; CS Engineering Student &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; Tamil Nadu, India</b></summary>
+<summary><b>🎓 Arunai Engineering College &nbsp;|&nbsp; CS Engineering Student &nbsp;|&nbsp; 2023 – Present &nbsp;|&nbsp; Tamil Nadu, India</b></summary>
 
 <br/>
 
