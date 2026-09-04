@@ -21,7 +21,7 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class Rajarajeshwari:
+class L.Rajarajeshwari:
 
     name        = "Rajarajeshwari L"
     location    = "Tamil Nadu, India 🇮🇳"
